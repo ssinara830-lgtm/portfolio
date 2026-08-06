@@ -2,7 +2,7 @@
 
 Desenvolvedora em formação, apaixonada por transformar ideias em aplicações reais. Trabalho principalmente com **Python**, construindo sistemas web e ferramentas que unem **Inteligência Artificial**, automação e criatividade.
 
-Este é o meu portfólio de projetos. Aqui apresento o que já construí — o que cada projeto faz, o problema que resolve e as tecnologias envolvidas. O código-fonte completo é mantido em repositórios privados; posso disponibilizá-lo sob solicitação, em processos seletivos.
+Este é o meu portfólio de projetos. Aqui apresento o que já construí — o que cada projeto faz, o problema que resolve e as tecnologias envolvidas. Alguns projetos têm o **código aberto** (com link abaixo); outros, com potencial comercial, são mantidos **privados**, e posso apresentá-los em detalhes sob solicitação.
 
 ---
 
@@ -40,6 +40,8 @@ Assistente pessoal de **curadoria literária para escritoras**. A aplicação l�
 
 **Tecnologias:** Python · FastAPI · Uvicorn · PyPDF2 · OpenAI · Jinja2
 
+**🔗 Código aberto:** [ver repositório](https://github.com/ssinara830-lgtm/alma-de-escrita)
+
 ---
 
 ### 🌐 NoBorders — Tradutor Universal
@@ -58,6 +60,8 @@ Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criaçã
 
 **Tecnologias:** Python · FastAPI · Pillow · SQLite · Jinja2
 
+**🔗 Código aberto:** [ver repositório](https://github.com/ssinara830-lgtm/sistema-social)
+
 ---
 
 ## 📫 Contato
@@ -67,4 +71,4 @@ Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criaçã
 
 ---
 
-<sub>💡 O código-fonte destes projetos é privado por conterem potencial comercial. Fico à disposição para apresentá-los em detalhes e demonstrar as soluções.</sub>
+<sub>💡 Os projetos NoBorders e Sistema de Inteligência Criativa têm código privado por conterem potencial comercial. Fico à disposição para apresentá-los em detalhes e demonstrar as soluções.</sub>
