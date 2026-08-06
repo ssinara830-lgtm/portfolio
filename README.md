@@ -1,0 +1,70 @@
+# 👋 Olá, eu sou a Sinara Santos
+
+Desenvolvedora em formação, apaixonada por transformar ideias em aplicações reais. Trabalho principalmente com **Python**, construindo sistemas web e ferramentas que unem **Inteligência Artificial**, automação e criatividade.
+
+Este é o meu portfólio de projetos. Aqui apresento o que já construí — o que cada projeto faz, o problema que resolve e as tecnologias envolvidas. O código-fonte completo é mantido em repositórios privados; posso disponibilizá-lo sob solicitação, em processos seletivos.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+**Linguagem:** Python
+
+**Back-end / Web:** FastAPI, Flask, Uvicorn, Jinja2
+
+**Inteligência Artificial:** OpenAI, Anthropic (Claude), Google Gemini
+
+**Processamento:** PyPDF2, pdfplumber, python-docx, Pillow (imagens), FFmpeg (vídeo)
+
+**Dados:** SQLite
+
+**Ferramentas:** Git, GitHub, VS Code
+
+---
+
+## 📂 Meus Projetos
+
+### 🎨 Sistema de Inteligência Criativa
+Plataforma que transforma obras escritas em **vídeos narrados**, usando uma equipe de agentes de IA que trabalham juntos. Cada agente cuida de uma etapa: leitura da obra, criação do roteiro, definição do storyboard visual, narração em áudio, trilha sonora e montagem final do vídeo.
+
+**Destaques técnicos:** arquitetura de múltiplos agentes de IA coordenados por um orquestrador · integração com OpenAI, Anthropic e Gemini · geração automática de mídia (imagem, áudio e vídeo).
+
+**Tecnologias:** Python · Flask · OpenAI · Anthropic · Gemini · Pillow · FFmpeg
+
+---
+
+### ✍️ Alma de Escrita
+Assistente pessoal de **curadoria literária para escritoras**. A aplicação lê e analisa textos (inclusive PDFs), organiza uma biblioteca pessoal e oferece sugestões que apoiam o processo criativo e a identidade autoral.
+
+**Destaques técnicos:** API em FastAPI · leitura e análise de PDFs · análise de conteúdo com IA · dashboard web.
+
+**Tecnologias:** Python · FastAPI · Uvicorn · PyPDF2 · OpenAI · Jinja2
+
+---
+
+### 🌐 NoBorders — Tradutor Universal
+Aplicativo de **tradução** standalone com suporte a mais de 20 idiomas e detecção automática de idioma. Um projeto completo, do conceito ao produto: inclui documentação técnica, análise de custos e estratégia de precificação.
+
+**Destaques técnicos:** aplicativo empacotado como executável standalone · visão de produto com planejamento de negócio e precificação.
+
+**Tecnologias:** Python · APIs de tradução
+
+---
+
+### 📱 Sistema Social
+Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criação de posts com identidade visual de marca (cores, fontes, logo), gera as artes, agenda publicações e organiza campanhas.
+
+**Destaques técnicos:** geração automática de artes com Pillow · aplicação de identidade de marca · agendamento e organização de conteúdo.
+
+**Tecnologias:** Python · FastAPI · Pillow · SQLite · Jinja2
+
+---
+
+## 📫 Contato
+
+- **E-mail:** gestaosinarasantos.l@gmail.com
+- **GitHub:** [ssinara830-lgtm](https://github.com/ssinara830-lgtm)
+
+---
+
+<sub>💡 O código-fonte destes projetos é privado por conterem potencial comercial. Fico à disposição para apresentá-los em detalhes e demonstrar as soluções.</sub>
