@@ -2,7 +2,7 @@
 
 Desenvolvedora em formação, apaixonada por transformar ideias em aplicações reais. Trabalho principalmente com **Python**, construindo sistemas web e ferramentas que unem **Inteligência Artificial**, automação e criatividade.
 
-Este é o meu portfólio de projetos. Aqui apresento o que já construí — o que cada projeto faz, o problema que resolve e as tecnologias envolvidas. Alguns projetos têm o **código aberto** (com link abaixo); outros, com potencial comercial, são mantidos **privados**, e posso apresentá-los em detalhes sob solicitação.
+Este é o meu portfólio de projetos. Aqui apresento o que já construí — o que cada projeto faz, o problema que resolve e as tecnologias envolvidas. Alguns projetos têm o **código aberto** (com link abaixo); outros, com potencial comercial, são  **privados**, e posso apresentá-los em detalhes sob solicitação.
 
 ---
 
