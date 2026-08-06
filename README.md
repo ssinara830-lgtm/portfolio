@@ -24,12 +24,12 @@ Este é o meu portfólio de projetos. Aqui apresento o que já construí — o q
 
 ## 📂 Meus Projetos
 
-### 🎨 Sistema de Inteligência Criativa
-Plataforma que transforma obras escritas em **vídeos narrados**, usando uma equipe de agentes de IA que trabalham juntos. Cada agente cuida de uma etapa: leitura da obra, criação do roteiro, definição do storyboard visual, narração em áudio, trilha sonora e montagem final do vídeo.
+### 🎯 Sistema de Inteligência Criativa
+Plataforma que transforma ideias de **profissionais autônomos** em **gestão estratégica de negócio e de marca** para redes sociais e divulgação — uma curadoria completa de gestão de administração e de gestão de marca. Com o apoio de uma equipe de agentes de Inteligência Artificial, a plataforma estrutura o negócio e a identidade da marca, cria conteúdo e organiza a comunicação de ponta a ponta, ajudando o profissional a se posicionar e crescer.
 
-**Destaques técnicos:** arquitetura de múltiplos agentes de IA coordenados por um orquestrador · integração com OpenAI, Anthropic e Gemini · geração automática de mídia (imagem, áudio e vídeo).
+**Destaques técnicos:** arquitetura de múltiplos agentes de IA coordenados por um orquestrador · integração com OpenAI, Anthropic e Gemini · automação de criação de conteúdo, identidade de marca e material de divulgação.
 
-**Tecnologias:** Python · Flask · OpenAI · Anthropic · Gemini · Pillow · FFmpeg
+**Tecnologias:** Python · Flask · OpenAI · Anthropic · Gemini · Pillow
 
 ---
 
@@ -45,9 +45,9 @@ Assistente pessoal de **curadoria literária para escritoras**. A aplicação l�
 ---
 
 ### 🌐 NoBorders — Tradutor Universal
-Aplicativo de **tradução** standalone com suporte a mais de 20 idiomas e detecção automática de idioma. Um projeto completo, do conceito ao produto: inclui documentação técnica, análise de custos e estratégia de precificação.
+Aplicativo de **tradução** standalone com suporte a mais de 20 idiomas e detecção automática de idioma. Seu grande diferencial é **traduzir documentos preservando a formatação original** — textos, imagens, gráficos e layout permanecem intactos após a tradução. Um projeto completo, do conceito ao produto: inclui documentação técnica, análise de custos e estratégia de precificação.
 
-**Destaques técnicos:** aplicativo empacotado como executável standalone · visão de produto com planejamento de negócio e precificação.
+**Destaques técnicos:** tradução de documentos com preservação total da formatação (textos, imagens e gráficos) · aplicativo empacotado como executável standalone · visão de produto com planejamento de negócio e precificação.
 
 **Tecnologias:** Python · APIs de tradução
 
