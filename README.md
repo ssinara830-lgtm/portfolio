@@ -60,7 +60,7 @@ Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criaçã
 
 **Tecnologias:** Python · FastAPI · Pillow · SQLite · Jinja2
 
-**🔗 Código aberto:** [ver repositório](https://github.com/ssinara830-lgtm/sistema-social)
+**🔗 Código aberto:** [ver repositório](https://github.com/ssinara830-lgtm/gestor-redes-sociais)
 
 ---
 
