@@ -64,6 +64,15 @@ Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criaçã
 
 ---
 
+### ⚖️ Pensão360 — Analisador de Processos de Pensão
+Aplicativo que apoia a análise de processos de **pensão por morte** no serviço público federal. Confere se a documentação está completa, **verifica a integridade dos PDFs** (indícios de adulteração), simula o **cálculo da pensão** conforme a EC 103/2019 e analisa o **acúmulo de benefícios**, gerando um relatório completo do processo.
+
+**Destaques técnicos:** cálculo da pensão com a regra do dependente inválido e rateio em cotas · verificação de integridade por hash SHA-256, metadados e detecção de edição · regras de acúmulo (EC 103, art. 24) com faixas de salário mínimo · checklist de documentos e validação de CPF.
+
+**Tecnologias:** Python · FastAPI · pdfplumber / pypdf · hashlib · Jinja2
+
+---
+
 ## 📫 Contato
 
 - **E-mail:** gestaosinarasantos.l@gmail.com
@@ -71,4 +80,4 @@ Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criaçã
 
 ---
 
-<sub>💡 Os projetos NoBorders e Sistema de Inteligência Criativa têm código privado por conterem potencial comercial. Fico à disposição para apresentá-los em detalhes e demonstrar as soluções.</sub>
+<sub>💡 Os projetos NoBorders, Sistema de Inteligência Criativa e Pensão360 têm código privado (por conterem potencial comercial ou por serem ferramentas de uso profissional). Fico à disposição para apresentá-los em detalhes e demonstrar as soluções.</sub>
