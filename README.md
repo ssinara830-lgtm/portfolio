@@ -1,83 +1,207 @@
+Sobre mim
+Sou desenvolvedora de soluções digitais, com experiência na concepção de produtos que unem tecnologia, inteligência artificial e inovação para resolver problemas complexos.
+Minha atuação vai além do desenvolvimento de software. Meu foco é compreender profundamente as necessidades das pessoas, mapear processos, identificar oportunidades de melhoria e estruturar soluções capazes de gerar valor para usuários e organizações.
+Ao longo da minha trajetória na Administração Pública Federal, desenvolvi uma visão sistêmica dos processos administrativos, da experiência do usuário e da transformação digital de serviços públicos. Essa experiência despertou meu interesse pelo Design de Serviços e pelo desenvolvimento de produtos centrados nas pessoas.
+Atualmente desenvolvo aplicações em Python utilizando Inteligência Artificial, automação, análise documental e processamento de dados, sempre buscando transformar processos complexos em experiências simples, intuitivas e eficientes.
+Meu objetivo é contribuir para projetos de inovação, redesenho de serviços e transformação digital, utilizando tecnologia como ferramenta para melhorar a experiência das pessoas.
+Minha forma de trabalhar
+Todo projeto que desenvolvo segue uma metodologia estruturada baseada em princípios de Design Thinking e Design de Serviços.
+1. Descoberta
+Compreensão do contexto do problema.
+Identificação dos usuários envolvidos.
+Levantamento das principais dificuldades.
+Observação dos processos existentes.
 
+2. Pesquisa
+Mapeamento das necessidades.
+Identificação de oportunidades.
+Análise das etapas da jornada do usuário.
 
-Desenvolvedora em formação, apaixonada por transformar ideias em aplicações reais. Trabalho principalmente com **Python**, construindo sistemas web e ferramentas que unem **Inteligência Artificial**, automação e criatividade.
+3. Definição
+Organização dos problemas identificados.
+Priorização das oportunidades de melhoria.
+Definição dos objetivos da solução.
 
-Este é o meu portfólio de projetos. Aqui apresento o que já construí — o que cada projeto faz, o problema que resolve e as tecnologias envolvidas. Alguns projetos têm o **código aberto** (com link abaixo); outros, com potencial comercial, são  **privados**, e posso apresentá-los em detalhes sob solicitação.
+4. Ideação
+Construção de alternativas.
+Definição da arquitetura da solução.
+Planejamento do fluxo de navegação.
+Escolha das tecnologias.
 
----
+5. Desenvolvimento
+Implementação utilizando Python.
+Integração com APIs de Inteligência Artificial.
+Automação de processos.
+Criação da interface da aplicação.
 
-Tecnologias que utilizo
+6. Testes
+Validação das funcionalidades.
+Ajustes na experiência do usuário.
+Correções.
 
-**Linguagem:** Python
+7. Evolução Contínua
+Coleta de feedback.
+Análise de resultados.
+Melhoria contínua.
 
-**Back-end / Web:** FastAPI, Flask, Uvicorn, Jinja2
+Competências
+Design de Serviços
+✔ Mapeamento de processos
+✔ Jornada do usuário
+✔ Arquitetura de serviços
+✔ Redesenho de processos
+✔ Identificação de oportunidades de inovação
 
-**Inteligência Artificial:** OpenAI, Anthropic (Claude), Google Gemini
+Experiência do Usuário
+✔ Pesquisa de necessidades
+✔ Organização de fluxos
+✔ Design centrado no usuário
+✔ Simplificação de processos
+✔ Desenvolvimento de soluções intuitivas
 
-**Processamento:** PyPDF2, pdfplumber, python-docx, Pillow (imagens), FFmpeg (vídeo)
+Inovação
+✔ Design Thinking
+✔ Inteligência Artificial
+✔ Automação
+✔ Desenvolvimento de MVPs
+✔ Transformação Digital
 
-**Dados:** SQLite
+Desenvolvimento
+Python
+FastAPI
+Flask
+SQLite
+Git
+GitHub
+Jinja2
+OpenAI
+Claude
+Gemini
+Pillow
+PyPDF2
+FFmpeg
 
-**Ferramentas:** Git, GitHub, VS Code
-
----
-
-Meus Projetos
-
+Projetos
 Sistema de Inteligência Criativa
-Plataforma que transforma ideias de **profissionais autônomos** em **gestão estratégica de negócio e de marca** para redes sociais e divulgação — uma curadoria completa de gestão de administração e de gestão de marca. Com o apoio de uma equipe de agentes de Inteligência Artificial, a plataforma estrutura o negócio e a identidade da marca, cria conteúdo e organiza a comunicação de ponta a ponta, ajudando o profissional a se posicionar e crescer.
+Problema
+Profissionais autônomos frequentemente possuem conhecimento técnico em suas áreas, mas enfrentam dificuldades para estruturar seu negócio, desenvolver uma identidade de marca consistente e organizar sua comunicação digital.
+Esses desafios resultam em perda de produtividade, comunicação inconsistente e dificuldade de posicionamento no mercado.
 
-**Destaques técnicos:** arquitetura de múltiplos agentes de IA coordenados por um orquestrador · integração com OpenAI, Anthropic e Gemini · automação de criação de conteúdo, identidade de marca e material de divulgação.
+Pesquisa
+Durante o desenvolvimento da solução foram identificadas necessidades recorrentes entre profissionais autônomos:
+• dificuldade em criar conteúdo;
+• ausência de planejamento estratégico;
+• identidade visual inconsistente;
+• excesso de tempo gasto com atividades operacionais.
 
-**Tecnologias:** Python · Flask · OpenAI · Anthropic · Gemini · Pillow
+Solução
+Desenvolvimento de uma plataforma baseada em Inteligência Artificial capaz de apoiar toda a jornada de posicionamento digital do profissional.
+A plataforma organiza informações, auxilia na construção da identidade da marca, gera conteúdos personalizados e automatiza processos de comunicação.
 
----
+Tecnologias
+Python
+Flask
+OpenAI
+Claude
+Gemini
+Pillow
 
-Alma de Escrita
-Assistente pessoal de **curadoria literária para escritoras**. A aplicação lê e analisa textos (inclusive PDFs), organiza uma biblioteca pessoal e oferece sugestões que apoiam o processo criativo e a identidade autoral.
+Competências demonstradas
+Design de Serviços
+Arquitetura de Soluções
+Inteligência Artificial
+Automação
+Pensamento Sistêmico
 
-**Destaques técnicos:** API em FastAPI · leitura e análise de PDFs · análise de conteúdo com IA · dashboard web.
+Pensão360
+Problema
+A análise de processos de pensão por morte exige consulta constante à legislação, conferência documental, cálculos previdenciários e verificação da autenticidade de documentos.
+Essas atividades tornam o processo lento e suscetível a erros.
 
-**Tecnologias:** Python · FastAPI · Uvicorn · PyPDF2 · OpenAI · Jinja2
+Pesquisa
+A solução foi inspirada na observação direta da rotina de análise de processos administrativos da Administração Pública Federal.
+As principais dificuldades identificadas foram:
+• excesso de conferências manuais;
+• repetição de tarefas;
+• consultas constantes à legislação;
+• dificuldade em detectar documentos adulterados.
 
-**🔗 Código aberto:** [ver repositório](https://github.com/ssinara830-lgtm/alma-de-escrita)
+Solução
+Desenvolvimento de uma plataforma capaz de apoiar toda a análise do processo previdenciário.
+A aplicação realiza:
+✔ checklist documental;
+✔ validação de CPF;
+✔ cálculo automático da pensão;
+✔ análise de acúmulo de benefícios;
+✔ verificação da integridade documental;
+✔ geração de relatório técnico.
 
----
+Fluxo da solução
+Recebimento do processo
+↓
+Validação documental
+↓
+Verificação da autenticidade dos arquivos
+↓
+Simulação do benefício
+↓
+Análise do acúmulo
+↓
+Emissão do relatório
+
+Tecnologias
+Python
+FastAPI
+Hash SHA-256
+PyPDF
+pdfplumber
+Jinja2
+
+Competências demonstradas
+Design de Serviços
+Automação
+Mapeamento de Processos
+Transformação Digital
+Análise de Dados
+Arquitetura de Soluções
 
 NoBorders — Tradutor Universal
-Aplicativo de **tradução** standalone com suporte a mais de 20 idiomas e detecção automática de idioma. Seu grande diferencial é **traduzir documentos preservando a formatação original** — textos, imagens, gráficos e layout permanecem intactos após a tradução. Um projeto completo, do conceito ao produto: inclui documentação técnica, análise de custos e estratégia de precificação.
+Problema
+Ferramentas tradicionais de tradução frequentemente alteram a formatação original dos documentos, exigindo retrabalho significativo após a tradução.
 
-**Destaques técnicos:** tradução de documentos com preservação total da formatação (textos, imagens e gráficos) · aplicativo empacotado como executável standalone · visão de produto com planejamento de negócio e precificação.
+Solução
+Aplicação capaz de traduzir documentos preservando integralmente textos, imagens, gráficos e layout.
+Além da implementação técnica, o projeto incluiu estudo de viabilidade, análise de custos e definição da estratégia de precificação.
 
-**Tecnologias:** Python · APIs de tradução
-
----
+Competências demonstradas
+Experiência do Usuário
+Arquitetura de Produto
+Planejamento Estratégico
+Desenvolvimento de Produto Digital
 
 Sistema Social
-Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criação de posts com identidade visual de marca (cores, fontes, logo), gera as artes, agenda publicações e organiza campanhas.
+Problema
+Pequenos empreendedores enfrentam dificuldades para manter consistência na produção de conteúdo e na identidade visual de suas redes sociais.
 
-**Destaques técnicos:** geração automática de artes com Pillow · aplicação de identidade de marca · agendamento e organização de conteúdo.
+Solução
+Sistema para gerenciamento completo da comunicação digital.
+Permite:
+• criação automática de artes;
+• aplicação da identidade visual;
+• organização de campanhas;
+• agendamento de publicações.
 
-**Tecnologias:** Python · FastAPI · Pillow · SQLite · Jinja2
+Competências demonstradas
+Design de Serviços
+Experiência do Usuário
+Automação
+Gestão de Conteúdo
 
-**🔗 Código aberto:** [ver repositório](https://github.com/ssinara830-lgtm/gestor-redes-sociais)
+Diferenciais
+Minha experiência na Administração Pública Federal me proporcionou uma compreensão aprofundada de processos administrativos complexos, análise documental, legislação e melhoria contínua de serviços.
+Essa vivência, aliada ao desenvolvimento de soluções digitais baseadas em Inteligência Artificial, permite que eu una visão estratégica, conhecimento técnico e foco no usuário para criar produtos inovadores e eficientes.
+Tenho facilidade em compreender problemas complexos, estruturar soluções e transformar ideias em produtos digitais que geram valor para pessoas e organizações.
 
----
+Objetivo Profissional
+Contribuir para equipes multidisciplinares dedicadas à inovação, transformação digital e melhoria da experiência dos usuários, aplicando metodologias de Design de Serviços, Design Thinking, Inteligência Artificial e desenvolvimento de soluções tecnológicas para criar serviços mais eficientes, intuitivos e centrados nas pessoas.
 
-Pensão360 — Analisador de Processos de Pensão
-Aplicativo que apoia a análise de processos de **pensão por morte** no serviço público federal. Confere se a documentação está completa, **verifica a integridade dos PDFs** (indícios de adulteração), simula o **cálculo da pensão** conforme a EC 103/2019 e analisa o **acúmulo de benefícios**, gerando um relatório completo do processo.
-
-**Destaques técnicos:** cálculo da pensão com a regra do dependente inválido e rateio em cotas · verificação de integridade por hash SHA-256, metadados e detecção de edição · regras de acúmulo (EC 103, art. 24) com faixas de salário mínimo · checklist de documentos e validação de CPF.
-
-**Tecnologias:** Python · FastAPI · pdfplumber / pypdf · hashlib · Jinja2
-
----
-
-Contato
-
-- **E-mail:** gestaosinarasantos.l@gmail.com
-- **GitHub:** [ssinara830-lgtm](https://github.com/ssinara830-lgtm)
-
----
-
-<sub>💡 Os projetos NoBorders, Sistema de Inteligência Criativa e Pensão360 têm código privado (por conterem potencial comercial ou por serem ferramentas de uso profissional). Fico à disposição para apresentá-los em detalhes e demonstrar as soluções.</sub>
