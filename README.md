@@ -13,7 +13,7 @@ Atuo há mais de 10 anos na Administração Pública Federal (aposentadoria e pe
 - **Pensão360** — análise de processos de pensão por morte: checklist documental, cálculos e verificação de integridade. *Redesenho de serviço público.*
 - **SIVID** — verificação de integridade e autenticidade de documentos digitais (PDFs), com relatórios auditáveis.
 - **NoBorders** — tradutor que preserva a formatação original dos documentos, do conceito ao produto.
-- **Alma de Escrita** — curadoria literária para escritoras, com análise de textos e apoio à identidade autoral.
+- **Alma de Escrita** — curadoria literária para escritores, com análise de textos e apoio à identidade autoral.
 
 ## Contato
 
