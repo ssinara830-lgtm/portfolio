@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Sinara Santos
+
 
 Desenvolvedora em formação, apaixonada por transformar ideias em aplicações reais. Trabalho principalmente com **Python**, construindo sistemas web e ferramentas que unem **Inteligência Artificial**, automação e criatividade.
 
@@ -6,7 +6,7 @@ Este é o meu portfólio de projetos. Aqui apresento o que já construí — o q
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+Tecnologias que utilizo
 
 **Linguagem:** Python
 
@@ -22,9 +22,9 @@ Este é o meu portfólio de projetos. Aqui apresento o que já construí — o q
 
 ---
 
-## 📂 Meus Projetos
+Meus Projetos
 
-### 🎯 Sistema de Inteligência Criativa
+Sistema de Inteligência Criativa
 Plataforma que transforma ideias de **profissionais autônomos** em **gestão estratégica de negócio e de marca** para redes sociais e divulgação — uma curadoria completa de gestão de administração e de gestão de marca. Com o apoio de uma equipe de agentes de Inteligência Artificial, a plataforma estrutura o negócio e a identidade da marca, cria conteúdo e organiza a comunicação de ponta a ponta, ajudando o profissional a se posicionar e crescer.
 
 **Destaques técnicos:** arquitetura de múltiplos agentes de IA coordenados por um orquestrador · integração com OpenAI, Anthropic e Gemini · automação de criação de conteúdo, identidade de marca e material de divulgação.
@@ -33,7 +33,7 @@ Plataforma que transforma ideias de **profissionais autônomos** em **gestão es
 
 ---
 
-### ✍️ Alma de Escrita
+Alma de Escrita
 Assistente pessoal de **curadoria literária para escritoras**. A aplicação lê e analisa textos (inclusive PDFs), organiza uma biblioteca pessoal e oferece sugestões que apoiam o processo criativo e a identidade autoral.
 
 **Destaques técnicos:** API em FastAPI · leitura e análise de PDFs · análise de conteúdo com IA · dashboard web.
@@ -44,7 +44,7 @@ Assistente pessoal de **curadoria literária para escritoras**. A aplicação l�
 
 ---
 
-### 🌐 NoBorders — Tradutor Universal
+NoBorders — Tradutor Universal
 Aplicativo de **tradução** standalone com suporte a mais de 20 idiomas e detecção automática de idioma. Seu grande diferencial é **traduzir documentos preservando a formatação original** — textos, imagens, gráficos e layout permanecem intactos após a tradução. Um projeto completo, do conceito ao produto: inclui documentação técnica, análise de custos e estratégia de precificação.
 
 **Destaques técnicos:** tradução de documentos com preservação total da formatação (textos, imagens e gráficos) · aplicativo empacotado como executável standalone · visão de produto com planejamento de negócio e precificação.
@@ -53,7 +53,7 @@ Aplicativo de **tradução** standalone com suporte a mais de 20 idiomas e detec
 
 ---
 
-### 📱 Sistema Social
+Sistema Social
 Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criação de posts com identidade visual de marca (cores, fontes, logo), gera as artes, agenda publicações e organiza campanhas.
 
 **Destaques técnicos:** geração automática de artes com Pillow · aplicação de identidade de marca · agendamento e organização de conteúdo.
@@ -64,7 +64,7 @@ Ferramenta de **gestão de conteúdo para redes sociais**. Automatiza a criaçã
 
 ---
 
-### ⚖️ Pensão360 — Analisador de Processos de Pensão
+Pensão360 — Analisador de Processos de Pensão
 Aplicativo que apoia a análise de processos de **pensão por morte** no serviço público federal. Confere se a documentação está completa, **verifica a integridade dos PDFs** (indícios de adulteração), simula o **cálculo da pensão** conforme a EC 103/2019 e analisa o **acúmulo de benefícios**, gerando um relatório completo do processo.
 
 **Destaques técnicos:** cálculo da pensão com a regra do dependente inválido e rateio em cotas · verificação de integridade por hash SHA-256, metadados e detecção de edição · regras de acúmulo (EC 103, art. 24) com faixas de salário mínimo · checklist de documentos e validação de CPF.
@@ -73,7 +73,7 @@ Aplicativo que apoia a análise de processos de **pensão por morte** no serviç
 
 ---
 
-## 📫 Contato
+Contato
 
 - **E-mail:** gestaosinarasantos.l@gmail.com
 - **GitHub:** [ssinara830-lgtm](https://github.com/ssinara830-lgtm)
